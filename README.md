@@ -14,7 +14,7 @@ A **simple Flutter widget** for displaying a **scrollable table** with a fixed h
 Add this to your `pubspec.yaml`:
 ```yaml
 dependencies:
-  scroll_table: ^1.0.0
+  scroll_table: ^1.0.1
 ```
 Then run:
 ```sh
