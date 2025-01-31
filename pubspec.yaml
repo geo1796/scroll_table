@@ -1,0 +1,21 @@
+name: scroll_table
+description: "A simple Flutter widget for displaying a scrollable table with a fixed header."
+version: 1.0.0
+homepage: https://github.com/geo1796/scroll_table
+repository: https://github.com/geo1796/scroll_table
+license: MIT
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
